@@ -7,5 +7,5 @@ The objective of this project was to make a program that could organize a stack 
 
 # ✅ Grading
 Mandatory: **100%**                                                                                                                          
-Bonus: **25**                                                                                                                                                
+Bonus: **25%**                                                                                                                                                
 Final Grade: **100%**
